@@ -70,5 +70,9 @@ fisrt name| last name| age
 Bob       |   Lee     | 20
 Ruby      |    Yang   | 20
 
+# emoji's
+:smile:
+
+:heart:
 
 
